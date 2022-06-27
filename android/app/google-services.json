@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "299292792773",
+    "project_id": "btm-project-b0c5b",
+    "storage_bucket": "btm-project-b0c5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299292792773:android:1c1121d82a8ad855efddac",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project_cryptowallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299292792773-o83k30dpfl1akhs9pauigubln8cv56pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkM3-RxtEJ7wC3hN6dj9Jt6vXSWBdjVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299292792773-o83k30dpfl1akhs9pauigubln8cv56pq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299292792773-gd14erupfpdiae4lf1q21rt19o92qa9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduationProjectCryptowallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
